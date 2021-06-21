@@ -1,0 +1,6 @@
+C:\Users\Nick\Source\Repos\BuyKit\BuyKit\bin\Debug\BuyKit.dll
+C:\Users\Nick\Source\Repos\BuyKit\BuyKit\bin\Debug\BuyKit.pdb
+C:\Users\Nick\Source\Repos\BuyKit\BuyKit\obj\Debug\BuyKit.csprojAssemblyReference.cache
+C:\Users\Nick\Source\Repos\BuyKit\BuyKit\obj\Debug\BuyKit.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Source\Repos\BuyKit\BuyKit\obj\Debug\BuyKit.dll
+C:\Users\Nick\Source\Repos\BuyKit\BuyKit\obj\Debug\BuyKit.pdb
